@@ -1,0 +1,15 @@
+.width{
+  width: 600px;
+  background-color: #000000;
+}
+.slider{
+  margin: 100px auto;
+  width: 80%;
+}
+.slider img{
+  height: auto;
+  width: 100%;
+}
+.slick-dots li button:before{
+  font-size: 20px;
+}
